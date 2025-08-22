@@ -33,17 +33,6 @@ My goal is to build impactful ML systems that solve **real-world problems** and 
 
 ---
 
-## 🚀 Projects Included  
-
-1. **Healthcare Assistant** – Disease prediction using ML & DL.  
-2. **AI Resume Screener (ATS)** – NLP model to rank resumes for job roles.  
-3. **Fraud Detection System** – Detects fraudulent transactions.  
-4. **Personalized Learning Recommender** – Suggests courses/resources.  
-5. **AI Shopping Reminder Assistant (Google Maps + AI)** –  
-   My unique project idea: Users add shopping lists → system uses **geolocation + AI** to remind them when near relevant stores.  
-
----
-
 ## 🛠️ Tech Stack  
 
 - **Languages:** Python, C++  
